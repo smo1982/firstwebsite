@@ -1,0 +1,49 @@
+body {
+    background-color: azure;
+    padding: 50px;
+    width: 1200px
+}
+
+thead th {
+    background: rgb(85, 74, 243);
+    color: #FFF;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+ }
+
+ table {
+   position: relative;
+   left: 500px;
+
+ }
+
+tr {
+  background: hsl(69, 81%, 72%);
+  border-bottom: 5px solid #FFF;
+  margin-bottom: 5px;
+}  
+
+h1, h2, h3, h4, h5, p, a {
+  text-align: center ;
+}
+
+li, iframe {
+  position: relative;
+  left: 35%;
+}
+
+iframe {
+  position: relative;
+  left: 420px;
+}
+
+#desbini {
+  position: relative;
+  left: 525px;
+
+}
+
+ 
